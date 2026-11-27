@@ -15,3 +15,4 @@ __pycache__/
 network_web.svg
 
 data/
+*.bak
