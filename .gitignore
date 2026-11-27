@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+.idea/
+.vscode/
+.DS_Store
+
+# Large model weights and datasets — keep these out of the repo
+*.pth
+*.pt
+*.onnx
+*.tmp
+
+# Generated web assets
+network_web.svg
+
+data/
